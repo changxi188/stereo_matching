@@ -1,0 +1,9 @@
+/home/mr/Downloads/practice/stereo_matching/build/CMakeFiles/rebuild_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/CMakeFiles/edit_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/src/CMakeFiles/rebuild_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/src/CMakeFiles/sm_lib.dir
+/home/mr/Downloads/practice/stereo_matching/build/src/CMakeFiles/edit_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/app/CMakeFiles/rebuild_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/app/CMakeFiles/edit_cache.dir
+/home/mr/Downloads/practice/stereo_matching/build/app/CMakeFiles/collect_image.dir
+/home/mr/Downloads/practice/stereo_matching/build/app/CMakeFiles/start_stereo_match.dir

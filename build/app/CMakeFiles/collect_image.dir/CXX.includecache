@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mr/Downloads/practice/stereo_matching/app/collect_image.cpp
+opencv2/opencv.hpp
+-
+iostream
+-
+boost/format.hpp
+-
+
